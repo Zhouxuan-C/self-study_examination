@@ -153,10 +153,18 @@
 <br />
 <br />
 
+### 资料、历年真题 和 教材
+资料及历年真题均来自网络。需要注意的是操作系统、计算机网络原理等课程（详见教材），最近一次教材更新是在 2018年。因此，在此之后，考试重点可能与之前不同。建议不要迷信历年真题  
+
+关于教材，可以在 [力源图书](https://liyuants.tmall.com/p/rd057697.htm) 购买。
+
+<br />
+<br />
 
 ### 参考链接
 [江苏省教育考试公众信息服务平台](http://sdata.jseea.cn/tpl_front/homepage.html)  
 [网易云课堂——大学计算机专业课程体系](http://study.163.com/curricula/cs.htm)  
+[使用bilibili搜索课程](https://search.bilibili.com)
   
 <br />
 <br />
