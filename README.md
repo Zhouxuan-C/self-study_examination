@@ -149,4 +149,5 @@
 <br />
 
 
-<p align="center"><img width="200" src="https://ww4.sinaimg.cn/large/9150e4e5ly1flnduskp3tj20f00f0q38.jpg"></p>
+<p align="center"><img width="200" src="https://ww4.sinaimg.cn/large/9150e4e5ly1flnduskp3tj20f00f0q38.jpg"></p> <br />
+<p align="center"><img src="https://github.com/Zhouxuan-C/self-study_examination/blob/master/Certificate.jpg?raw=true"></p>
