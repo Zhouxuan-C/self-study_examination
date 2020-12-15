@@ -147,4 +147,4 @@
 
 <br />
 <br />
-<img width="400" src="https://github.com/Zhouxuan-C/self-study_examination/blob/master/Certificate.jpg?raw=true"></p>
+<img width="400" src="https://github.com/Zhouxuan-C/self-study_examination/blob/master/Certificate.png?raw=true" title="美"></p>
